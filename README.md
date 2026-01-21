@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://via.placeholder.com/1500x500/0d1117/ffffff?text=Agustin+Moya+-+Frontend+Developer" alt="Banner" width="100%" />
+</div>
 
-<!--
-**agusmoya/agusmoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Agustín 👋</h1>
+<h3 align="center">Frontend Developer 💻 + UX/UI Designer 🎨</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Specialized in building dynamic, scalable, and visually polished web experiences.<br>
+  I blend <b>React & TypeScript</b> logic with strong design principles to create products that work as beautifully as they look.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h3 align="left">🛠️ Tech Stack</h3>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,figma,vscode,storybook&perline=10" />
+  </a>
+</div>
+
+<br>
+
+<h3 align="left">📫 Let's Connect</h3>
+<div align="left">
+  <a href="https://agustin-moya-dev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="www.linkedin.com/in/agustin-moya-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>  
+  <a href="mailto:agustin.moya.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<br>
