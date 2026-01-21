@@ -26,7 +26,7 @@
   <a href="https://agustin-moya-dev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="www.linkedin.com/in/agustin-moya-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/agustin-moya-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>  
   <a href="mailto:agustin.moya.dev@gmail.com" target="_blank">
