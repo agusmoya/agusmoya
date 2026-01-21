@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1500x500/0d1117/ffffff?text=Agustin+Moya+-+Frontend+Developer" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi there, I'm Agustín 👋</h1>
