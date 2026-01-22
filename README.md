@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Agustín 👋</h1>
-<h3 align="center">Frontend Developer 💻 + UX/UI Designer 🎨</h3>
+<h3 align="center"><h3 align="center">Frontend Developer 💻 | React Specialist ⚛️ | UX/UI Oriented 🎨</h3>
 
 <p align="center">
   Specialized in building dynamic, scalable, and visually polished web experiences.<br>
@@ -13,9 +13,25 @@
 <br>
 
 <h3 align="left">🛠️ Tech Stack</h3>
+
+<p align="left"><b>Frontend & Design</b></p>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,figma,vscode,storybook&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,figma&perline=14" />
+  </a>
+</div>
+
+<p align="left"><b>Backend & Database</b></p>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=14" />
+  </a>
+</div>
+
+<p align="left"><b>Tools & Workflow</b></p>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=14" />
   </a>
 </div>
 
